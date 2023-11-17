@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.789a997e.css",
+    "main.js": "/static/js/main.7cb601bf.js",
+    "static/js/857.ea74e1c7.chunk.js": "/static/js/857.ea74e1c7.chunk.js",
+    "static/js/80.1386acf5.chunk.js": "/static/js/80.1386acf5.chunk.js",
+    "static/js/369.d308ea77.chunk.js": "/static/js/369.d308ea77.chunk.js",
+    "static/js/391.f6298285.chunk.js": "/static/js/391.f6298285.chunk.js",
+    "static/js/36.19ed1e10.chunk.js": "/static/js/36.19ed1e10.chunk.js",
+    "static/js/756.50f5e11a.chunk.js": "/static/js/756.50f5e11a.chunk.js",
+    "static/js/342.ce91bfc6.chunk.js": "/static/js/342.ce91bfc6.chunk.js",
+    "static/js/201.7fabfa61.chunk.js": "/static/js/201.7fabfa61.chunk.js",
+    "static/js/193.675d556e.chunk.js": "/static/js/193.675d556e.chunk.js",
+    "static/media/about2.png": "/static/media/about2.2c658163450020bdd1de.png",
+    "static/media/about1.png": "/static/media/about1.c35664614ae558df2f0b.png",
+    "static/media/about3.png": "/static/media/about3.06f628d7e08a3d862f34.png",
+    "static/media/brooklyn.png": "/static/media/brooklyn.6e2285ba4d69e2c98054.png",
+    "static/media/manhattan.png": "/static/media/manhattan.755be5e9c6a40a0e53dd.png",
+    "static/media/adidas.png": "/static/media/adidas.2badc08d73f983306087.png",
+    "static/media/jordan.png": "/static/media/jordan.66d98816f811cc947d9c.png",
+    "static/media/nike.png": "/static/media/nike.2e6a0c193b57f63e6936.png",
+    "static/media/yeezy.png": "/static/media/yeezy.b4c69cabf5f36dae7d63.png",
+    "static/media/logo.png": "/static/media/logo.55270e514d13626da9db.png",
+    "index.html": "/index.html",
+    "main.789a997e.css.map": "/static/css/main.789a997e.css.map",
+    "main.7cb601bf.js.map": "/static/js/main.7cb601bf.js.map",
+    "857.ea74e1c7.chunk.js.map": "/static/js/857.ea74e1c7.chunk.js.map",
+    "80.1386acf5.chunk.js.map": "/static/js/80.1386acf5.chunk.js.map",
+    "369.d308ea77.chunk.js.map": "/static/js/369.d308ea77.chunk.js.map",
+    "391.f6298285.chunk.js.map": "/static/js/391.f6298285.chunk.js.map",
+    "36.19ed1e10.chunk.js.map": "/static/js/36.19ed1e10.chunk.js.map",
+    "756.50f5e11a.chunk.js.map": "/static/js/756.50f5e11a.chunk.js.map",
+    "342.ce91bfc6.chunk.js.map": "/static/js/342.ce91bfc6.chunk.js.map",
+    "201.7fabfa61.chunk.js.map": "/static/js/201.7fabfa61.chunk.js.map",
+    "193.675d556e.chunk.js.map": "/static/js/193.675d556e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.789a997e.css",
+    "static/js/main.7cb601bf.js"
+  ]
+}
