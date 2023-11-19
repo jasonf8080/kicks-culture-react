@@ -229,6 +229,7 @@ const Wrapper = styled.div`
       border: 1px solid var(--normal-grey);
       border-radius: var(--smallBorderRadius);
       box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
+      color: black !important;
     }
 
     .mobile-filter-section button:hover{
