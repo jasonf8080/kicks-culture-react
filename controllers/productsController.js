@@ -2,6 +2,7 @@ import Product from '../models/Product.js'
 import {BadRequestError, NotFoundError, UnAuthenticatedError} from '../errors/index.js';
 import { StatusCodes } from 'http-status-codes';
 
+
 // const getAllBrands = async(req, res) => {
   
 //     let brands = await Product.find({})
@@ -46,11 +47,11 @@ const getAllProducts = async(req, res) => {
         queryObject.brand = brand;
     }
     
-    if(price){
-        let prices = price.replaceAll('$', '')
-        prices = prices.split('-');
-        queryObject.price = ({ $gte :  Number(prices[0]), $lte : Number(prices[1])});
-    }
+    if (price) {
+       let prices = price.replace(/\$/g, ''); // Use a regular expression to replace all occurrences of '$'
+       prices = prices.split('-');
+       queryObject.price = { $gte: Number(prices[0]), $lte: Number(prices[1]) };
+    }   
 
     if(primary){
         queryObject.primary = primary
